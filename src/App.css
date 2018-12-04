@@ -1,9 +1,0 @@
-p.in {
-    animation: bounceInUp .5s;
-    color: red;
-}
-
-p.out {
-    display: none;
-    transform: translateY(-300px)
-}

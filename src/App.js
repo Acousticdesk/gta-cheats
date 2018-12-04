@@ -1,19 +1,14 @@
 import React from 'react'
-import { useCheats } from './hooks'
 
-import 'animate.css/animate.min.css'
-import './App.css'
+import 'bulma/css/bulma.min.css'
+import './App.scss'
 
-import CheatList from './CheatList'
+import Hero from './components/Hero'
+import CheatsSection from './components/sections/Cheats.component'
 
-export default () => {
-  const { cheat, cheats, handleChange, handleKeyPress, cheatCodeMatch } = useCheats()
-
-  return (
-    <div>
-      <input type="text" value={cheat} onChange={handleChange} onKeyPress={handleKeyPress} />
-      <CheatList cheats={cheats} />
-      <p className={`${cheatCodeMatch ? 'in' : 'out'}`}>You have used a cheat code!</p>
-    </div>
-  )
-}
+export default () => (
+  <div className="container">
+    <Hero />
+    <CheatsSection />
+  </div>
+)

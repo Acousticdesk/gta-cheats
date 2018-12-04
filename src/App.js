@@ -5,7 +5,8 @@ import './App.scss'
 
 import Hero from './components/Hero'
 import CheatsSection from './components/cheats/sections/component'
-import Search from './components/search/Section.component'
+import Search from './components/search/Section.container'
+
 
 export default () => (
   <div className="container">

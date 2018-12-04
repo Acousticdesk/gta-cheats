@@ -1,6 +1,6 @@
 import React from 'react'
 
-import CheatsSection from 'components/cheats/Section.component'
+import CheatsSection from 'components/cheats/column/component'
 import cheats from 'components/cheats/data'
 
 export default () => (

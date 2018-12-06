@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Hero Component  1`] = `
+<div
+  className="hero"
+>
+  <div
+    className="hero-body"
+  >
+    <h2
+      className="title is-1"
+    >
+      Cheaterino
+      <span
+        aria-label="fire"
+        role="img"
+      >
+        🔥
+      </span>
+    </h2>
+    <h3
+      className="subtitle"
+    >
+      Your San Andreas cheats in a neat place.
+    </h3>
+  </div>
+</div>
+`;

@@ -1,15 +1,15 @@
 {
-  "main.css": "/static/css/main.6b5b4163.chunk.css",
-  "main.js": "/static/js/main.85c83c86.chunk.js",
-  "main.js.map": "/static/js/main.85c83c86.chunk.js.map",
-  "static/css/1.66edfbb0.chunk.css": "/static/css/1.66edfbb0.chunk.css",
-  "static/js/1.cb4a429b.chunk.js": "/static/js/1.cb4a429b.chunk.js",
-  "static/js/1.cb4a429b.chunk.js.map": "/static/js/1.cb4a429b.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
-  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "static/css/1.66edfbb0.chunk.css.map": "/static/css/1.66edfbb0.chunk.css.map",
-  "static/css/main.6b5b4163.chunk.css.map": "/static/css/main.6b5b4163.chunk.css.map",
-  "index.html": "/index.html",
-  "precache-manifest.ae01bd0f7358670e11e5937f17e037ea.js": "/precache-manifest.ae01bd0f7358670e11e5937f17e037ea.js",
-  "service-worker.js": "/service-worker.js"
+  "main.css": "/gta-cheats/static/css/main.6b5b4163.chunk.css",
+  "main.js": "/gta-cheats/static/js/main.df41a92d.chunk.js",
+  "main.js.map": "/gta-cheats/static/js/main.df41a92d.chunk.js.map",
+  "static/css/1.66edfbb0.chunk.css": "/gta-cheats/static/css/1.66edfbb0.chunk.css",
+  "static/js/1.cb4a429b.chunk.js": "/gta-cheats/static/js/1.cb4a429b.chunk.js",
+  "static/js/1.cb4a429b.chunk.js.map": "/gta-cheats/static/js/1.cb4a429b.chunk.js.map",
+  "runtime~main.js": "/gta-cheats/static/js/runtime~main.39dd49df.js",
+  "runtime~main.js.map": "/gta-cheats/static/js/runtime~main.39dd49df.js.map",
+  "static/css/main.6b5b4163.chunk.css.map": "/gta-cheats/static/css/main.6b5b4163.chunk.css.map",
+  "static/css/1.66edfbb0.chunk.css.map": "/gta-cheats/static/css/1.66edfbb0.chunk.css.map",
+  "index.html": "/gta-cheats/index.html",
+  "precache-manifest.fe335e979acb9b1dec5ac3e3b572c59c.js": "/gta-cheats/precache-manifest.fe335e979acb9b1dec5ac3e3b572c59c.js",
+  "service-worker.js": "/gta-cheats/service-worker.js"
 }

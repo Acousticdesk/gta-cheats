@@ -5,7 +5,7 @@ import cheats from 'components/cheats/data'
 
 import CheatsColumn from 'components/cheats/column/component'
 
-import { filterCheats } from '../utils'
+import { filterCheats } from '../utils/index'
 
 import { selectSearchQuery } from '../../search/redux/selectors'
 

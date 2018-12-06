@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="428de3d5-8262-4365-bf1c-f99547dfbe20" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/search/redux/selectors.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/cheats/sections/component.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/cheats/sections/component.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/cheats/utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/cheats/utils.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -46,11 +43,8 @@
       <file leaf-file-name="component.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/cheats/sections/component.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="12" column="32" lean-forward="true" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
-              <folding>
-                <element signature="e#0#25#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="51">
+              <caret line="3" column="39" selection-start-line="3" selection-start-column="39" selection-end-line="3" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -58,8 +52,8 @@
       <file leaf-file-name="selectors.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/search/redux/selectors.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="6" selection-start-column="6" selection-end-column="6" />
+            <state relative-caret-position="17">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -76,8 +70,8 @@
       <file leaf-file-name="utils.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/components/cheats/utils.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="391">
+              <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -287,12 +281,12 @@
       <option name="presentableId" value="Default" />
       <updated>1543854075243</updated>
       <workItem from="1543854077375" duration="10922000" />
-      <workItem from="1544024905805" duration="5070000" />
+      <workItem from="1544024905805" duration="5735000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15992000" />
+    <option name="totallyTimeSpent" value="16657000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -391,18 +385,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/cheats/Section/styles.scss" />
-    <entry file="file://$PROJECT_DIR$/src/components/cheats/data.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="352" lean-forward="true" selection-start-line="352" selection-end-line="352" />
-          <folding>
-            <element signature="e#28#299#0" />
-            <element signature="e#310#564#0" />
-            <element signature="e#577#837#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/App.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -543,6 +525,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/rootReducer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="58" selection-start-line="2" selection-start-column="58" selection-end-line="2" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/cheats/column/component.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -553,34 +542,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/rootReducer.js">
+    <entry file="file://$PROJECT_DIR$/src/components/search/redux/selectors.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="58" selection-start-line="2" selection-start-column="58" selection-end-line="2" selection-end-column="58" />
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/search/redux/selectors.js">
+    <entry file="file://$PROJECT_DIR$/src/components/cheats/data.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="6" selection-start-column="6" selection-end-column="6" />
+        <state relative-caret-position="436">
+          <caret line="352" lean-forward="true" selection-start-line="352" selection-end-line="352" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/cheats/sections/component.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="12" column="32" lean-forward="true" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
-          <folding>
-            <element signature="e#0#25#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="51">
+          <caret line="3" column="39" selection-start-line="3" selection-start-column="39" selection-end-line="3" selection-end-column="39" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/cheats/utils.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="391">
+          <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
         </state>
       </provider>
     </entry>

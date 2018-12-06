@@ -2,7 +2,7 @@ import React from 'react'
 
 import './styles.scss'
 
-import { cheatsToTableRows } from '../utils'
+import { cheatsToTableRows } from '../utils/index'
 
 export default ({ heading, cheats }) => (
   <>

@@ -6,3 +6,7 @@ export const cheatsToTableRows = (c, i) => (
     <td>{c.description}</td>
   </tr>
 )
+export const filterCheats = (searchQuery, cheats) => {
+  console.log(searchQuery, cheats)
+  return cheats
+}

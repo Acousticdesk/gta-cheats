@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/gta-cheats/static/css/1.a0ef503a.chunk.css"
   },
   {
-    "revision": "df33bbe0e29e8c0f3124b4b6380f1ab0",
+    "revision": "b72ef5bc722a006724eb5c4de295e45b",
     "url": "/gta-cheats/index.html"
   }
 ];

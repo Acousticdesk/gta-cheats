@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/gta-cheats/precache-manifest.4e476ecfa0d283236d883fe4685f7884.js"
+  "/gta-cheats/precache-manifest.5e93a0a8f6e2ed7b6f1a90d60f92b13c.js"
 );
 
 workbox.clientsClaim();
